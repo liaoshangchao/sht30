@@ -1,0 +1,59 @@
+Version 3.2 HI-TECH Software Intermediate Code
+"50 mcc_generated_files/device_config.c
+[p x FEXTOSC=OFF ]
+"51
+[p x RSTOSC=HFINT1 ]
+"52
+[p x CLKOUTEN=OFF ]
+"53
+[p x VBATEN=OFF ]
+"54
+[p x LCDPEN=ON ]
+"55
+[p x CSWEN=ON ]
+"56
+[p x FCMEN=ON ]
+"59
+[p x MCLRE=ON ]
+"60
+[p x PWRTE=OFF ]
+"61
+[p x LPBOREN=OFF ]
+"62
+[p x BOREN=ON ]
+"63
+[p x BORV=LO ]
+"64
+[p x ZCD=OFF ]
+"65
+[p x PPS1WAY=ON ]
+"66
+[p x STVREN=ON ]
+"69
+[p x WDTCPS=WDTCPS_31 ]
+"70
+[p x WDTE=OFF ]
+"71
+[p x WDTCWS=WDTCWS_7 ]
+"72
+[p x WDTCCS=SC ]
+"75
+[p x BBSIZE=512 ]
+"76
+[p x BBEN=OFF ]
+"77
+[p x SAFEN=OFF ]
+"78
+[p x WRTAPP=OFF ]
+"79
+[p x WRTB=OFF ]
+"80
+[p x WRTC=OFF ]
+"81
+[p x WRTD=OFF ]
+"82
+[p x WRTSAF=OFF ]
+"83
+[p x LVP=OFF ]
+"86
+[p x CP=OFF ]
